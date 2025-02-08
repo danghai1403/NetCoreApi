@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.intro::first-letter {
+  color: #ff0000;
+  font-size: 200%;
+}  
+</style>
+</head>
+<body>
+
+<p class="intro">Nguyễn Đăng Hải -2121051554.</p>
+<p>PTPMQL-Nhóm 02 ,Bài thực hành 13/01.</p>
+
+</body>
+</html>
+
+
